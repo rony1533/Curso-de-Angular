@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Tela Verde HD",
+      "price": 70.69
+    },
+    {
+      "name": "Notebook",
+      "price": 1500,
+      "id": 3
+    },
+    {
+      "name": "Notebook",
+      "price": 333,
+      "id": 4
+    }
+  ]
+}
